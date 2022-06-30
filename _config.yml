@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Bufficorn Ventures
 
 # Your name to show in the footer
-author: Some Person
+author: Russell Castagnaro
 
 # --- List of links in the navigation bar --- #
 
@@ -42,12 +42,12 @@ social-network-links:
   email: "bv@ethdenver.com"
  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
  # facebook: eth
- # github: daattali
- # twitter: daattali
+  github: rcastag
+  twitter: rcastag
  # youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: russell-castagnaro-6231553
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -75,7 +75,7 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
   vk: false
 
